@@ -1,0 +1,30 @@
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\bin\Release\Student Registration System.exe.config
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\bin\Release\Student.mdf
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\bin\Release\Student_log.ldf
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\bin\Release\Student Registration System.exe.manifest
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\bin\Release\Student Registration System.application
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\bin\Release\Student Registration System.exe
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\bin\Release\Student Registration System.pdb
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student Registration System.csprojResolveAssemblyReference.cache
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.DeleteBatchAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.DeleteCourseAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.DeleteStudentAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.EditBatchAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.EditCourseAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.EditStudentAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.Form1.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.NewBatchAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.NewCourseAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.NewStudentAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.Properties.Resources.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.ViewBatchAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.ViewCourseAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.ViewStudentAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.WelcomeAdmin.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.WelcomeLecturer.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student_Registration_System.WelcomeReception.resources
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student Registration System.csproj.GenerateResource.Cache
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student Registration System.exe.manifest
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student Registration System.application
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student Registration System.exe
+C:\Users\HomePC\Desktop\Project - Student Registration System\Student Registration System\Student Registration System\obj\Release\Student Registration System.pdb
